@@ -7,5 +7,14 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Hossam ELMansy",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hossamelmansy/egghead-react-boilerplate.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/hossamelmansy/egghead-react-boilerplate/issues"
+  },
+  "homepage": "https://github.com/hossamelmansy/egghead-react-boilerplate#readme"
 }
